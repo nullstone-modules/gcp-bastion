@@ -11,7 +11,3 @@ output "public_urls" {
 output "public_ip" {
   value = local.public_ip
 }
-
-output "ssh_user" {
-  value = "ubuntu"
-}
