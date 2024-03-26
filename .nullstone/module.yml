@@ -1,0 +1,13 @@
+org_name: nullstone
+name: gcp-bastion
+friendly_name: Bastion
+description: Bastion box for connectivity to private GCP network
+category: app
+subcategory: server
+provider_types:
+    - gcp
+platform: vm
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
